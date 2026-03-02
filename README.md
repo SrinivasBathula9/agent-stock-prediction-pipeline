@@ -90,13 +90,7 @@ stock-agent-ops/
 - Ollama (local or Docker)
 - DagsHub account (free tier)
 
-### 1. Clone & Install
 
-```bash
-git clone https://github.com/karan842/stock-agent-ops.git
-cd stock-agent-ops
-uv sync
-```
 
 ### 2. Configure Environment
 
